@@ -1,0 +1,44 @@
+body {
+    background-color: #111;
+    color: white;
+    font-family: Arial;
+    margin: 0;
+    text-align: center;
+}
+
+.top-bar {
+    background: linear-gradient(90deg, #b08d2f, #f5e7a1, #b08d2f);
+    color: #111;
+    text-align: center;
+    padding: 8px;
+    font-weight: bold;
+}
+header {
+    background-color: #1e1e1e;
+    text-align: center;
+    padding: 30px;
+    font-size: 180%;
+}
+
+nav a {
+    color: white;
+    margin: 0 18px;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+nav a:hover {
+    color: #d4af37;
+}
+
+
+iframe {
+    margin: 30px;
+    border: 3px solid #d4af37;
+  
+}
+
+footer {
+    color: #d4af37;
+    padding: 15px;
+}
